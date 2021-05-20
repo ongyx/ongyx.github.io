@@ -1,7 +1,10 @@
 ---
-
 title: Lagtrain (Eng. Translation)
-catagories: [Japanese, Song, Translation]
+categories:
+  - Song
+tags:
+  - translation
+  - japanese
 ---
 
 Song: [ラグトレイン (Ragutorein)](https://www.youtube.com/watch?v=UnIhRpIT7nc)

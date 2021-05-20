@@ -1,7 +1,10 @@
 ---
-
 title: Music Train (未来のミライ ED) (Eng. Translation)
-catagories: [Japanese, Song, Translation]
+categories:
+  - Song
+tags:
+  - translation
+  - japanese
 ---
 
 Song: [うたのきしゃ (Uta No Kisha)](https://www.youtube.com/watch?v=pzKAcPk91HQ)

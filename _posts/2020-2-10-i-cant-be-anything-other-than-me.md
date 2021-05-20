@@ -1,7 +1,10 @@
 ---
-
 title: I Can't Be Anyone Other Than Me (Eng. Translation)
-catagories: [Japanese, Song, Translation]
+categories:
+  - Song
+tags:
+  - translation
+  - japanese
 ---
 
 Song: [私以外私じゃないの (Watashi Igai Watashi ja Nai no)](https://www.youtube.com/watch?v=Ae6gQmhaMn4)

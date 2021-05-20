@@ -1,7 +1,11 @@
 ---
 
 title: Secret Elementary School Student (Eng. Translation)
-catagories: [Japanese, Song, Translation]
+categories:
+  - Song
+tags:
+  - translation
+  - japanese
 ---
 
 Song: [ひみつの小学生 (Himitsu No Shougakusei)](https://youtube.com/watch?v=wdUCRDvFv3Q)

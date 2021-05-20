@@ -3,6 +3,40 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+[Cub]: https://github.com/louisdh/cub
+[OpenTerm]: https://github.com/louisdh/openterm
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+[mangadex]: https://github/ongyx/mangadex 
+[tankobon]: https://github/ongyx/tankobon 
+[vgmusic.py]: https://github/ongyx/vgmusic.py 
+[musdl]: https://github/ongyx/musdl 
+[oxlang]: https://github/ongyx/oxlang 
+[putao]: https://github/ongyx/putao 
+[mothman]: https://github/ongyx/mothman 
+[userdefaults3]: https://github/ongyx/userdefaults3
+
+I'm a Python hobbyist who started out in 2017 fiddling with the [Cub] programming language through [OpenTerm],
+and eventually picked up Python in 2018-2019. Basically (almost) all of my projects are written in Python.
+
+Of which quite a few are related to consuming web services:
+
+* [mangadex] - Mangadex v5 OpenAPI generated Python client, with a (incomplete) higher-level interface.
+* [tankobon] - Manga website scraper and downloader.
+* [vgmusic.py] - Python API to [vgmusic.com].
+* [musdl] - Pure-Python downloader for [musescore].
+ 
+These projects have decidedly less web interaction -
+ 
+* [oxlang] - The ox programming language (wip), whose semantics are heavily based on [Cub]. We have come full circle.
+* [putao] - Poor man's [UTAU]. An experiment in building a voice synthesis program using Python.
+* [mothman] - Automated static Cydia/Sileo repo generation.
+* [userdefaults3] - Python interface to the Obj-C NSUserDefaults class using any available Obj-C bridge.
+
+Also, I do pixel art for some of my project logos, despite my art skills being nonexistent.  
+How about enjoying this nice image of a rat?
+
+![a rat](/assets/artwork/rat-transparent.png)
+
+All blog posts/artwork here is licensed under CC BY-NC-SA 4.0:
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)

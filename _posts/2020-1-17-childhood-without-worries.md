@@ -1,7 +1,11 @@
 ---
-
 title: Childhood, without worries
-catagories: Poem
+categories:
+  - Poem
+tags:
+  - translation
+  - chinese
+excerpt: Inspired by the last four lines of the first paragraph of [无忧的童年](https://www.cpcll.sg/xinkongxia/wuyoudetongnian).
 ---
 
 When we were young and little  
@@ -18,5 +22,3 @@ The light at the end of the tunnel
 Finally shone upon us  
 Perserverence throughout the muddles  
 And out tumultuous past
-
-(Inspired by the last four lines of the first paragraph of [无忧的童年](https://www.cpcll.sg/xinkongxia/wuyoudetongnian).)

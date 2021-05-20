@@ -1,7 +1,11 @@
 ---
 
 title: Battling (I Will Fight) (Eng. Translation)
-catagories: [Japanese, Song, Translation]
+categories:
+  - Song
+tags:
+  - translation
+  - japanese
 ---
 
 Song: [戦ってしまうよ (Tatakatte Shimau Yo)](https://www.youtube.com/watch?v=UJdNqxOykw8)
