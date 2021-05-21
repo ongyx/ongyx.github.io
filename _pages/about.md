@@ -6,14 +6,14 @@ title: "About"
 [Cub]: https://github.com/louisdh/cub
 [OpenTerm]: https://github.com/louisdh/openterm
 
-[mangadex]: https://github/ongyx/mangadex 
-[tankobon]: https://github/ongyx/tankobon 
-[vgmusic.py]: https://github/ongyx/vgmusic.py 
-[musdl]: https://github/ongyx/musdl 
-[oxlang]: https://github/ongyx/oxlang 
-[putao]: https://github/ongyx/putao 
-[mothman]: https://github/ongyx/mothman 
-[userdefaults3]: https://github/ongyx/userdefaults3
+[mangadex]: https://github.com/ongyx/mangadex 
+[tankobon]: https://github.com/ongyx/tankobon 
+[vgmusic.py]: https://github.com/ongyx/vgmusic.py 
+[musdl]: https://github.com/ongyx/musdl 
+[oxlang]: https://github.com/ongyx/oxlang 
+[putao]: https://github.com/ongyx/putao 
+[mothman]: https://github.com/ongyx/mothman 
+[userdefaults3]: https://github.com/ongyx/userdefaults3
 
 I'm a Python hobbyist who started out in 2017 fiddling with the [Cub] programming language through [OpenTerm],
 and eventually picked up Python in 2018-2019. Basically (almost) all of my projects are written in Python.
