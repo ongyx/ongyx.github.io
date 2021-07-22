@@ -15,17 +15,20 @@ title: "About"
 [mothman]: https://github.com/ongyx/mothman 
 [userdefaults3]: https://github.com/ongyx/userdefaults3
 
+[vgmusic]: https://vgmusic.com
+[musescore]: https://musescore.com
+[UTAU]: http://utau2008.xrea.jp
+
 I'm a Python hobbyist who started out in 2017 fiddling with the [Cub] programming language through [OpenTerm],
 and eventually picked up Python in 2018-2019. Basically (almost) all of my projects are written in Python.
 
 Of which quite a few are related to consuming web services:
 
-* [mangadex] - Mangadex v5 OpenAPI generated Python client, with a (incomplete) higher-level interface.
 * [tankobon] - Manga website scraper and downloader.
-* [vgmusic.py] - Python API to [vgmusic.com].
+* [vgmusic.py] - Python API to [vgmusic].
 * [musdl] - Pure-Python downloader for [musescore].
  
-These projects have decidedly less web interaction -
+These projects have decidedly less web interaction:
  
 * [oxlang] - The ox programming language (wip), whose semantics are heavily based on [Cub]. We have come full circle.
 * [putao] - Poor man's [UTAU]. An experiment in building a voice synthesis program using Python.
