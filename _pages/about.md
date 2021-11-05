@@ -39,7 +39,3 @@ Also, I do pixel art for some of my project logos, despite my art skills being n
 How about enjoying this nice image of a rat?
 
 ![a rat](/assets/artwork/rat-transparent.png)
-
-All blog posts/artwork here is licensed under CC BY-NC-SA 4.0:
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
