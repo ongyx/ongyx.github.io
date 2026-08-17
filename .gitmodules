@@ -1,0 +1,9 @@
+[submodule "helix"]
+	path = debian-src/sources/helix
+	url = https://github.com/mattwparas/helix.git
+	branch = steel-event-system
+	ignore = dirty
+[submodule "steel"]
+	path = debian-src/sources/steel
+	url = https://github.com/mattwparas/steel.git
+	ignore = dirty
