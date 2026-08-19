@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: ongyx
+Label: Debian 13 (Trixie)
+Suite: stable
+Codename: trixie
+Date: Wed, 19 Aug 2026 17:56:12 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Personal repository containing the plugin fork of Helix editor and accompanying packages for Steel development.
+MD5Sum:
+ 0c728aceb48f668e8178ed7bf95c8ed1 9908 main/binary-amd64/Packages
+ 9888258cc646de4e7602e11a082b3cf6 3984 main/binary-amd64/Packages.gz
+ 10c7ab041e8dbb112a27f382b986f9a5 217 main/binary-amd64/Release
+ ff6fae9093cd5522b2464ce7da3497d1 9917 main/binary-arm64/Packages
+ 8b0a631bf17f3a7be1cf2a54353b624d 3969 main/binary-arm64/Packages.gz
+ dff426d2eb69c0804315f8d653ff187b 217 main/binary-arm64/Release
+ 1c3082094b75cdd3b6de05b85531554e 110049 main/Contents-amd64
+ bd95e4738bd10c4b462e37bd1293baf9 7781 main/Contents-amd64.gz
+ 1c3082094b75cdd3b6de05b85531554e 110049 main/Contents-arm64
+ bd95e4738bd10c4b462e37bd1293baf9 7781 main/Contents-arm64.gz
+SHA1:
+ 2b4cef3e3883b9d3df9b4fac22545f85ff741d40 9908 main/binary-amd64/Packages
+ ea8d2e8c40f13164628e46dff70f21ad305f470e 3984 main/binary-amd64/Packages.gz
+ 6688ed237db167008ff7e8e2ad0421070d4ef826 217 main/binary-amd64/Release
+ 741ede6aff5f74de354d03adf3719719b53877db 9917 main/binary-arm64/Packages
+ 98840a5e54ee501360d5528970cd6299ea2c498b 3969 main/binary-arm64/Packages.gz
+ d158b30f39dd73eafdeb59b661d60b493233961e 217 main/binary-arm64/Release
+ 651f3f1b07b9cfae225a33c2b27db5fda74329f0 110049 main/Contents-amd64
+ b88603ecee0e9b2053fab06e0d47b1cc52bdde27 7781 main/Contents-amd64.gz
+ 651f3f1b07b9cfae225a33c2b27db5fda74329f0 110049 main/Contents-arm64
+ b88603ecee0e9b2053fab06e0d47b1cc52bdde27 7781 main/Contents-arm64.gz
+SHA256:
+ 0cf24f141768ff2d0d8f9e8e3f9489dc2d403e0d9e381a15670156fc896f5d2a 9908 main/binary-amd64/Packages
+ c680f946b5cc281684758c3a708486ffdb17ef932c78be933e5f44db3d003b7b 3984 main/binary-amd64/Packages.gz
+ 56ebedd288b4911653c15620383a45a734f2574e9e37ef66e7fd0e9024270383 217 main/binary-amd64/Release
+ 3cb80e52f4a629a9107875ce760125760fcd55b1d111d5be0af25c0e39acdc62 9917 main/binary-arm64/Packages
+ b6bbac6641b4849bae58f7174ea56f72c59e48d924571077a631aeb033f49829 3969 main/binary-arm64/Packages.gz
+ bee8c92461b202d33c363544589ad5bb21b0749161f2411ab9dd5e6b279cf8ce 217 main/binary-arm64/Release
+ 8399a4aec943784a21d9b31b61f3fdee1988e59f1def2ac5124299e63044b10b 110049 main/Contents-amd64
+ 0279f571e57265a9261eedcce4487d02c467aca9afc89205ecd658bb3242fc4f 7781 main/Contents-amd64.gz
+ 8399a4aec943784a21d9b31b61f3fdee1988e59f1def2ac5124299e63044b10b 110049 main/Contents-arm64
+ 0279f571e57265a9261eedcce4487d02c467aca9afc89205ecd658bb3242fc4f 7781 main/Contents-arm64.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTLXEg6QByGLXl1v4EZWqfJMfbRlQUCaoXuQgAKCRAZWqfJMfbR
+lV3OAP4mP4TzTtYahteua4xoJWf3sFso7urKD9G1vbN6oBu49AD+L8XROhWDUbMm
+itb2xfn6RtuAc+44NphSkVWgynD97ws=
+=Gjnn
+-----END PGP SIGNATURE-----

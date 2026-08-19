@@ -9,8 +9,9 @@ packages can be built:
 - `steel-forge`
 - `helix`
 
-These packages are unofficial nightly builds of their respective repositories.
-If you encounter packaging issues, do not contact the original authors.
+These packages are unofficial builds of their respective repositories. If you
+encounter packaging issues, open an issue here instead of contacting the
+original authors.
 
 ## Supported Architectures/Versions
 
@@ -23,8 +24,8 @@ toolchain.
 
 ## Prerequisites
 
-You must have either Debian `trixie` and [rustup] installed. It is strongly to
-setup a Docker container or similar to build these packages for idempotency.
+You must have [Docker Engine] installed, as the packages are built within a
+container for idempotency.
 
 ## Quickstart
 
@@ -34,18 +35,7 @@ First, initialize the submodules to download their sources:
 git submodule update --init --recursive
 ```
 
-Then install building dependencies and rustup targets:
+Then run `build.sh <maintainer name and email>` to build the Dockerfile. The
+`.deb` files will be copied to [`../debian/incoming`](../debian/incoming).
 
-```
-./scripts/install-deps.sh
-./scripts/add-targets.sh
-```
-
-Finally, build packages with:
-
-```
-./scripts/build-steel.sh
-./scripts/build-helix.sh
-```
-
-[rustup]: https://rustup.rs
+[Docker Engine]: https://docs.docker.com/engine/install

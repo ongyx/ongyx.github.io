@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: ongyx
+Label: Debian 13 (Trixie)
+Architecture: amd64
+Description: Personal repository containing the plugin fork of Helix editor and accompanying packages for Steel development.
