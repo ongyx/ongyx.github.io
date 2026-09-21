@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: ongyx
+Label: ongyx's repository
+Suite: stable
+Codename: stable
+Date: Mon, 21 Sep 2026 08:13:22 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Personal repository containing the plugin fork of Helix editor and accompanying packages for Steel development.
+MD5Sum:
+ a89ce9a3653e807845b684491336fd11 9813 main/binary-amd64/Packages
+ d58e485962ada7904143e6709510ad2d 3952 main/binary-amd64/Packages.gz
+ 3d8b96708733c8820548684072105342 217 main/binary-amd64/Release
+ d5e6b54aef464a2b1d7cb5ca0f38550e 9822 main/binary-arm64/Packages
+ 575684a023efd39ad8c4a1a22bb277c3 3935 main/binary-arm64/Packages.gz
+ 7068a17f4aba91e42ff59861d8bf1e7f 217 main/binary-arm64/Release
+SHA1:
+ 3bf7d45982812f304053cb495e9f1d048e248672 9813 main/binary-amd64/Packages
+ 6e11391bc1565791ba9a30761462e2b66de8ab8e 3952 main/binary-amd64/Packages.gz
+ 0fd1aa98e13ff3af3159f37e79ba92f64a24e0d1 217 main/binary-amd64/Release
+ 461998c35f38dd5e6f405a6df714631ef0c686b4 9822 main/binary-arm64/Packages
+ 9c673b411687dba18a1d6d532923626554941abf 3935 main/binary-arm64/Packages.gz
+ 633136a8be456578f893d5a9a96b1fa5c57a5e2b 217 main/binary-arm64/Release
+SHA256:
+ 55e22ddace7fad008a976dee5fd6dc725034ae003f76560f8748cacc980a1238 9813 main/binary-amd64/Packages
+ 45c9b4e6013670b4969a3dffeac8a33a0d09b95f722938062120e41d0a8682be 3952 main/binary-amd64/Packages.gz
+ 9e55e60cde9766217a4ecf471b35ce95608d07b3fe94f3524a004609fbada89b 217 main/binary-amd64/Release
+ 94a454d70d02b3928375058476cb3e1b33d2432acb7dd80011317df1d221d753 9822 main/binary-arm64/Packages
+ 351ef00d4bbe047e2b2febf0aec1cc47875ce556ee9c2b5d99fdd878ceaf1445 3935 main/binary-arm64/Packages.gz
+ 4caa4ef99879668d89f1942db23b9f8737d7148e8c8c9b2f76e0abec32aa3b44 217 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEc8xcSQDM1okLuah/xG1HA9XV3Y4FAmqw5yIACgkQxG1HA9XV
+3Y6MOQ//Wc3vhTmUmLx6R4OayyWTcy3Yy3F0f0ltfvEgJDa4j3JXVvsqzTOEuDxJ
+Uz+93CWMh3MbmoSB+di6YBAC/ImbXp8dqqYbY94oyOJ0SJfhULCzKuIhXhpFdH+g
+e4PWbSwevHImRm2hLnuPZhXDbURQfZFCO3UaX6IsYmyep3v9kKtvxPRcBEGe2bXm
+JleFd2u7KyMcCHJwBvMaJTQpFE+iFutLe81jmqkHNxIOAQYsCxSrWQOMny0PMNjS
+0nKqUjw7qRagb2lIcQRwbBdhi8vmMqx1TqDgcnHrze/JFoGBJGBovC1pXaXlxPsT
+xOXWRIpALPTYtFHgqvy73NFvoPM/jNOKqOHoR92t6qiy2nRoo7CYM2oid4yX+nbt
+VTLfV2gfS7YVUDiGeUoiDkccWjIJjOZeu+Zrf7pGjwDfjnRXiCn8+7YKW98CFFzq
+4a8aFeQIollgJSqd+ynIghJq4w2z98bPOvr+meBmBXmNub+kk+yr7Ao4NYoOIepo
+DGKTmxFt2nnkCokIzWHCzyUMsMmmCAmSAmaTeTfTl21h43rSZ7E2qr+zssihPo29
+FdwosodCEfWVBUOORzktjTYhtgAxbfhTm1umiNae8JHDYAbHapJExPzFuIM9XGEz
+o+vjvWGOQSngiaU7DfsYSORRNW3AXlsMp6WQSQFOUan5lhG2LpA=
+=WEBB
+-----END PGP SIGNATURE-----

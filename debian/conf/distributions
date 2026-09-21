@@ -1,9 +1,8 @@
-Codename: trixie
+Codename: stable
 Suite: stable
 Architectures: amd64 arm64
 Components: main
-Contents:
-SignWith: CB5C483A401C862D7975BF81195AA7C931F6D195
+SignWith: D5D5DD8E
 Origin: ongyx
-Label: Debian 13 (Trixie)
+Label: ongyx's repository
 Description: Personal repository containing the plugin fork of Helix editor and accompanying packages for Steel development.

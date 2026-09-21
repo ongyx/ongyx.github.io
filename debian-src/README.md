@@ -1,17 +1,6 @@
 # debian-src
 
-Scripts and submodules for packages in the Debian repository. The following
-packages can be built:
-
-- `steel-interpreter`
-- `steel-language-server`
-- `cargo-steel-lib`
-- `steel-forge`
-- `helix`
-
-These packages are unofficial builds of their respective repositories. If you
-encounter packaging issues, open an issue here instead of contacting the
-original authors.
+Scripts and submodules for packages in the Debian repository.
 
 ## Supported Architectures/Versions
 
@@ -27,9 +16,10 @@ containerized builds.
 
 ## Prerequisites
 
-You must have [Docker Engine] installed, as the packages are built within a
-container for idempotency. Both native and integrated Docker installations on
-WSL2 are supported.
+- [Docker Engine]
+- [reprepro]
+
+All packages are built within a `rust:trixie` container for idempotency. Both native and integrated Docker installations on WSL2 are supported.
 
 ## Quickstart (Docker)
 
@@ -47,15 +37,17 @@ MAINTAINER="name <email>" DEB_REVISION=<rev> ./docker.sh <package>
 
 where `<package>` is 'helix', 'steel', or 'all'.
 
-The Docker build script automatically caches the Cargo registry and target directories under [`cache`](./cache/) for faster builds. The resulting packages are output to [`../debian/incoming`](../debian/incoming/).
+The Docker build script automatically caches the Cargo registry and target directories under [`cache`](./cache/) for faster builds.
+The resulting packages are output to [`../debian/incoming`](../debian/incoming/).
 
 ## Updating the repository
 
-The repository is currently managed with [reprepro]. Add the packages with:
+Add the packages with:
 
 ```
 cd ../debian
-reprepro includedeb trixie incoming/<deb>
+reprepro --section utils --component main includedeb stable incoming/<deb>
+reprepro deleteunreferenced
 ```
 
 [Rustup]: https://rustup.rs
