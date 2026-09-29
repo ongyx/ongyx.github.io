@@ -1,25 +1,25 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            yak shaving
-tagline:          'my most and least favorite activity'
-description:      'A blog on not getting sidetracked, or so I thought.'
-url:              http://ongyx.github.io
-baseurl:          /
+title: yak shaving
+tagline: "my most and least favorite activity"
+description: "A blog on not getting sidetracked, or so I thought."
+url: https://ongyx.github.io
+baseurl: /
 
 author:
-  name:           'Ong Yong Xin'
-  url:            https://github.com/ongyx
+  name: "Ong Yong Xin"
+  url: https://github.com/ongyx
 
-paginate:         5
+paginate: 5
 
 github:
-  repo:           https://github.com/ongyx/ongyx.github.io
+  repo: https://github.com/ongyx/ongyx.github.io
 
 plugins:
   - jekyll-sitemap
